@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "196601521714",
+    "project_id": "irctc-pnr-af4c1",
+    "storage_bucket": "irctc-pnr-af4c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196601521714:android:0f8f6bb268c5445258fe2b",
+        "android_client_info": {
+          "package_name": "com.irctc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWWecMKWjcfRqQZjHji8VKcB7NPQKIztI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
